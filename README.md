@@ -66,3 +66,15 @@ This is where the team actively gathers detailed information about what the soft
   </li>
   </ul>
 </section>
+
+<section>
+  <h2>Types of Requirements.</h2>
+  <section>
+    <h3>Functional Requirements</h3>
+    <p>This type of requirement focus on what the system(software product) should do like user authentication, registration, property search and booking system.</p>
+  </section>
+ <section>
+    <h3>Non-functional Requirements</h3>
+    <p>This type of requirement focus on how the system(software product) should perform like performance, security, scalability, usablity, and reliability.</p>
+  </section>
+</section>
