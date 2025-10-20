@@ -41,3 +41,28 @@ Clearly defines the scope of the project, which helps in preventing scope creep.
   </li>
   </ul>
 </section>
+<section>
+  <h2>Key Activities in Requirement Analysis.</h2>
+   <ul>
+  <li>
+  <strong>Gathering:- </strong> 
+  This is the process of finding out who has a stake in the success of the software being developed, through interview, surveys or questionnaire, workshops, observations and document analysis. 
+  </li>
+  <li>
+  <strong>Elicitation:- </strong> 
+This is where the team actively gathers detailed information about what the software needs to do from the identified stakeholders through brainstorming, focus groups and protyping.
+  </li>
+  <li>
+  <strong>Documentation:- </strong> 
+ This is the process of documenting all the findings and a detailed record of what the software needs to do and the constraints within which it must operate including functional and non functional requirements, user stories and user cases.
+  </li>
+  <li>
+  <strong>Analysis and Modeling:- </strong> 
+ This process involves taking a closer look at the documented requirements to make sure they are realistic and workable, From feasibilty to prioritization and modeling(data flow diagrams, entity-relationship diagrams).
+  </li>
+  <li>
+  <strong>Validation:- </strong> 
+ Thiis step is about confirming that the requirements actually meet the needs of the stakeholders and the goals of the project. Through Review and Approval, Acceptance Criteria, and Traceability.It allows the development team to explore whether the ambitious goals can actually be achieved with current technology and within the constraints of the project, such as time and budget.
+  </li>
+  </ul>
+</section>
