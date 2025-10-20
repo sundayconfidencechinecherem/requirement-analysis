@@ -1,8 +1,10 @@
-<h1>Requirement Analysis in Software Development.</h1>
+<section>
+  <h1>Requirement Analysis in Software Development.</h1>
 
-<p>
-  Requirement Analysis is a critical phase in the software development lifecycle, where the project team gathers, analyzes, and defines the requirements of the software product to be developed.
-</p>
+  <p>
+    Requirement Analysis is a critical phase in the software development lifecycle, where the project team gathers, analyzes, and defines the requirements of the software product to be developed.
+  </p>
+</section>
 
 <Section>
   <h2>What is Requirement Analysis?</h2>
@@ -12,3 +14,30 @@
 
   </p>
 </Section>
+
+
+<section>
+  <h2>Why is Requirement Analysis Important?</h2>
+  <ul>
+  <li>
+  <strong>Clarity and Understanding:- </strong> 
+  It helps in understanding what the stakeholders expect from the software, reducing ambiguity.
+  </li>
+  <li>
+  <strong>Scope Definiton:- </strong> 
+Clearly defines the scope of the project, which helps in preventing scope creep.
+  </li>
+  <li>
+  <strong>Basis for Design and Development:- </strong> 
+ Provides a solid foundation for designing and developing the system.
+  </li>
+  <li>
+  <strong>Cost and Time Estimation:- </strong> 
+ Facilitates accurate estimation of project cost, resources, and time.
+  </li>
+  <li>
+  <strong>Quality Assurance:- </strong> 
+ Ensures that the final product meets the specified requirements, leading to higher customer satisfaction.
+  </li>
+  </ul>
+</section>
