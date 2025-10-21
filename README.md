@@ -88,3 +88,19 @@ This is where the team actively gathers detailed information about what the soft
           </figcaption>
       </figure>
 </section>
+<section>
+  <h2>Acceptance Criteria.</h2>
+  <p>Acceptance criteria are conditions that a feature must meet to be accepted by the stakeholders.It must be specific and measurable and includes functional and non funcional product requirement.</p>
+  <h3>Importance of Acceptance Criteria</h3>
+  <ul>
+    <li>Ensure all parties have a clear understanding of feature requirements</li>
+    <li>Help in maintaining quality and meeting user expectations</li>
+    <li>Provide a basis for testing and validation.</li>
+  </ul>
+  <h3>Examples:</h3>
+  <ol>
+    <li>Users should be able to select available dates.</li>
+    <li>Users should be able to confirm booking.</li>
+    <li>Users should be able to receive a confirmation email within 2 minutes.</li>
+  </ol>
+</section>
