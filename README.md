@@ -78,3 +78,13 @@ This is where the team actively gathers detailed information about what the soft
     <p>This type of requirement focus on how the system(software product) should perform like performance, security, scalability, usablity, and reliability.</p>
   </section>
 </section>
+<section>
+  <section>
+    <h2>Use Case Diagram</h2>
+      <figure>
+          <img src="./alx-booking-uc.png" alt="alx-booking-uc" />
+          <figcation><strong>User Journeys:</strong> 
+          The diagram above demostrates the interconnected experiences of hosts and guest in a booking system.
+          </figcaption>
+      </figure>
+</section>
